@@ -9,7 +9,7 @@ import urllib
 from bs4 import BeautifulSoup
 
 def __main__():
-    print("Carries says ... - build 25 Feb PRC branch")
+    print("Carries says ... - build 25 new push")
     print()
     print("op")
     print("1 - scrape HKSARG GIA system for URLs")
