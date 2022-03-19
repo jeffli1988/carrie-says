@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa2381a4-7e0c-4fa1-8a2b-2d12f77833a2" name="Changes" comment="changes to dev2" />
+    <list default="true" id="aa2381a4-7e0c-4fa1-8a2b-2d12f77833a2" name="Changes" comment="changes to dev2">
+      <change beforePath="$PROJECT_DIR$/carrie.py" beforeDir="false" afterPath="$PROJECT_DIR$/carrie.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +12,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev2" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
