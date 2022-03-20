@@ -25,16 +25,6 @@ def __main__():
             langUrlModifier = "c"
         elif langInt == "2":
             lang = "en"
-        #apiNo = input("Use API no -")
-        apiNo = "1"
-        if apiNo == "1":
-            api = "AIzaSyDgZ25QVxvGyQWeQ7_kfJJtQTmYABj4ACc"
-        elif apiNo == "2":
-            api = "AIzaSyBEZF4ROE8CUPXtQXQnAS0kmUUKR5Dnv0A"
-        elif apiNo == "3":
-            api = "AIzaSyDF-hIj4Bcxo3iSKkVSnc13_xWktkyjWlM"
-        elif apiNo == "4":
-            api = "AIzaSyAtV9AaAuFQKts3AcEZHL14DRiAIT_4xWI"
         year = int(input("Start year - "))
         month = int(input("Start month - "))
         day = 1
