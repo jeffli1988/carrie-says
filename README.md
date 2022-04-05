@@ -19,3 +19,7 @@ We found that
 
 * Bumgi Min, a PhD candidate from the College of Communication at the Pennsylvania State University in the US. He has been studying Chinese govermment propaganda style. 
 * Luqiu Luwei, an assistant professor from the Baptist University of Hong Kong. She has been studying the changing of Hong Kong government's language styles before and after the handover.  
+
+## Publishing
+
+The story (in Chinese) and associated charts are published on the <a href=https://www.bbc.com/zhongwen/trad/chinese-news-60672295>BBC Chinese website</a>. 
